@@ -1,3 +1,5 @@
+/*Arduino program for morseProjectNew.
+Written by Nikolai Perepelitza on April 1st. */
 #include <morse.h>
 
 Morse morse(13);
@@ -26,6 +28,6 @@ DAMIAN
 IS 
 THE 
 BEST!!!!
-:)
+:):):):):):):p:p:P:)
 */
 }
