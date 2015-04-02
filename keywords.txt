@@ -1,3 +1,7 @@
+/*Keywords for morseProjectNew to highlight 
+the classes and functions in Arduino.
+Written by Nikolai Perepelitza on April 1st. */
+
 Morse	KEYWORD1
 a	KEYWORD2
 b	KEYWORD2
