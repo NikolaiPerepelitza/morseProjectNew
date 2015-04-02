@@ -1,3 +1,6 @@
+/*Source file, part of the Morse library,
+for morseProjectNew.Written by Nikolai 
+Perepelitza on April 1st. */
 #include "Arduino.h"
 #include "Morse.h"
 
