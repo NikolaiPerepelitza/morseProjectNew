@@ -1,4 +1,6 @@
-
+/*Header file, part of the Morse library,
+for morseProjectNew.Written by Nikolai 
+Perepelitza on April 1st. */
 #ifndef Morse_h
 #define Morse_h
 
