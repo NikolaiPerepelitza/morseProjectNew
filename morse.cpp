@@ -6,7 +6,7 @@ Perepelitza on April 1st. */
 
 Morse::Morse(int pin)
 {
-	pinMode(pin, OUTPUT);
+	pinMode(13, OUTPUT);
 	_pin = pin;
 }
 
